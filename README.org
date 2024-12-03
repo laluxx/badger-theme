@@ -1,0 +1,6 @@
+#+TITLE: Badger-theme
+#+AUTHOR: Laluxx
+#+DATE: [2024-11-12]
+#+OPTIONS: toc:2
+
+Collection of personal themes
